@@ -1,7 +1,7 @@
 # StyleManager
 Build a customizable Web portal for managing beauty salons<br/>
-+[![Gitter](https://gitter.im/StyleManager/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-+
+
+[![Join the chat at https://gitter.im/codemeta/codemeta](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/StyleManager/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **Welcome**<br/>
 This is a greenfield project, so everybody is welcome to join and contribute.<br/>
