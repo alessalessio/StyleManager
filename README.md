@@ -18,9 +18,9 @@ So, once a customer is assigned to a stylist, he asks for the list of services h
 The stylist begins the job and adds those services to the customer, so once he finishes he can quickly checkout and pay.<br/>
 <br/>
 **Frontend**<br/>
-Visualize the salon status. Show how many customers are in the waiting area, and how many are being served and by who.
-Fast method to checkin/checkout customers, and add/remove services.
-Show average customers waiting/service time.
+Visualize the salon status. Show how many customers are in the waiting area, and how many are being served and by who.<br/>
+Fast method to checkin/checkout customers, and add/remove services.<br/>
+Show average customers waiting/service time.<br/>
 <br/>
 **Portal and Private Salon Routing rule**<br/>
 It is a portal. So, every salon manager who wants to have access to it, has to create an account and provide a unique salon name.<br/>
